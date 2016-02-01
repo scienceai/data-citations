@@ -1,0 +1,2192 @@
+{
+  "@id": "scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1",
+  "encoding": [
+    {
+      "@id": "scienceai:ce41cb60-c93b-11e5-9607-c1ccf73229a1",
+      "isBasedOnUrl": [
+        "scienceai:ce3b14a1-c93b-11e5-9607-c1ccf73229a1"
+      ],
+      "identifier": [
+        {
+          "nodeId": "EytTK0dFl",
+          "hash": "46aba6f23a42e737dacace6b0d63ada5",
+          "key": "WDCTWi"
+        },
+        {
+          "nodeId": "EJlYaYAOte",
+          "hash": "a2d5b60df5f5bc250efc92b7aa68499b",
+          "key": "WDCWDC"
+        },
+        {
+          "nodeId": "NkZYpYAOYl",
+          "hash": "999a93a376d0c9cf5a6f82701245c4c6",
+          "key": "AWiWti",
+          "rhetoricalElementId": "NkZYpYAOYl"
+        },
+        {
+          "nodeId": "EyfYatCOYx",
+          "hash": "e353dbe42c8654f33588d4da0b517469",
+          "key": "AA",
+          "rhetoricalElementId": "NkZYpYAOYl"
+        },
+        {
+          "nodeId": "4kXFaKRuYl",
+          "hash": "722273b7707b466dad14fa2418c082c9",
+          "key": "WiaWti",
+          "rhetoricalElementId": "NkZYpYAOYl"
+        },
+        {
+          "nodeId": "4yEFpYA_Yl",
+          "hash": "9888f99446dbdc26f16fef93381c0334",
+          "key": "ITnBot",
+          "rhetoricalElementId": "4yEFpYA_Yl"
+        },
+        {
+          "nodeId": "41SYpKROFx",
+          "hash": "0b79795d3efc95b9976c7c5b933afce2",
+          "key": "II",
+          "rhetoricalElementId": "4yEFpYA_Yl"
+        },
+        {
+          "nodeId": "E1IYpY0OYl",
+          "hash": "c711209da1b7a991aa0bcdeff5197dab",
+          "key": "TnfTnf",
+          "rhetoricalElementId": "4yEFpYA_Yl"
+        },
+        {
+          "nodeId": "VyPY6tC_tx",
+          "hash": "b0ec448422960344103ff7a7029fe786",
+          "key": "OtiHce",
+          "rhetoricalElementId": "4yEFpYA_Yl"
+        },
+        {
+          "nodeId": "EkdK6t0OYe",
+          "hash": "431b927f04c67f76d1ec46bafcba081c",
+          "key": "WpbBot",
+          "rhetoricalElementId": "4yEFpYA_Yl"
+        },
+        {
+          "nodeId": "Vktt6F0uKx",
+          "hash": "51d3aa1dc5a1ea0e223d78fe521e3c2c",
+          "key": "MTlEAa",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "VJq6tC_Kx",
+          "hash": "4c3880bb027f159e801041b1021e88e8",
+          "key": "MM",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "EJgcTFCuFx",
+          "hash": "d355101f94b785d0f3dcd5b96508684b",
+          "key": "TloOii",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "EJZcTFC_Ke",
+          "hash": "371dc89dba314c78f534665e9b922a4c",
+          "key": "CoOGac",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "Ekzc6YAdFg",
+          "hash": "22c746410c8913c2ff7e00a509edfd2e",
+          "key": "CoOCoO",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "4kmqat0dYl",
+          "hash": "a7363c92efb34bc6ac963377287b5532",
+          "key": "TglTat",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "V1E96Y0OYl",
+          "hash": "9e145d984b65efbe824498e77f695760",
+          "key": "CaaCaa",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "EyScptC_tg",
+          "hash": "9e145d984b65efbe824498e77f695760",
+          "key": "CaaCaa",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "NkU56YROYl",
+          "hash": "3c9ddf2e6b2ec0f17bcdf5fc30dc996c",
+          "key": "UaoUao",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "EyDcTFAOFx",
+          "hash": "3c9ddf2e6b2ec0f17bcdf5fc30dc996c",
+          "key": "UaoUao",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "41O5atC_Yl",
+          "hash": "e94934122303ea2ce7cdc8e6bd5adea5",
+          "key": "UaoUao",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "4kK5aY0uFx",
+          "hash": "e94934122303ea2ce7cdc8e6bd5adea5",
+          "key": "UaoUao",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "Vkqcat0_Fx",
+          "hash": "899f3cb472426a091cded4998ba92de2",
+          "key": "O1oNot",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "N1j9TF0_Yg",
+          "hash": "44832880801b04e06e59f4e19a6c1d29",
+          "key": "CbdTpt",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "VkhcpFAOFx",
+          "hash": "17d252f365bcaf0cf2fd15151946f4fe",
+          "key": "EDoTmi",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "E1p9atCdYe",
+          "hash": "5b00af5244a8b95305fb41664b2eeff5",
+          "key": "EE",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "N10caFAOYl",
+          "hash": "fe9658ef214bf88ab20bfb999f1d502e",
+          "key": "DowTmi",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "V11e9TYRdtg",
+          "hash": "ed870991ece23e779356afc4cabadc18",
+          "key": "CIoTlc",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "NkxeqpY0uKe",
+          "hash": "7971813474da107714e72f8fd7b40a67",
+          "key": "CC",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "NyWeqpt0uYx",
+          "hash": "8735b5053cf8764f697add34e27bac4c",
+          "key": "IofTia",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "4kGe96KC_tl",
+          "hash": "767b07d99c20cfd37068c9e2b01ffb2f",
+          "key": "WtlWia",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "E17l5atAuFe",
+          "hash": "41bc6490aad6ad24015482c0b34a6aaa",
+          "key": "GaiGai",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "V1NlcTFA_Ke",
+          "hash": "19b06dee9e18d5cb13bea898b45b3635",
+          "key": "SmoTlc",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "V1rxcatAuFg",
+          "hash": "e8310d0b16d4fbe64188d581e409c55a",
+          "key": "AAoGaa",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "NkUe56F0uKg",
+          "hash": "985d38020b76334da44a018e5f385453",
+          "key": "AA",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "4kDlc6FRuYg",
+          "hash": "fc4872dd80de6834331a16c3f970de21",
+          "key": "AovAdc",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "4JugcTYAdFg",
+          "hash": "27cc4c644ab9dee98c63b1470bfb5eea",
+          "key": "GceGce",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "E1FxqTK0OYx",
+          "hash": "f249cfd414c8c583d594897412f0e36b",
+          "key": "GaaGaa",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "N1ql9ptA_Ke",
+          "hash": "54033e69e4b4e05077d23e73fe7236a2",
+          "key": "TDITwo",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "41ogc6YRuKl",
+          "hash": "8289dd59973ce92c8e3bf4849f3ede8c",
+          "key": "TDTD",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "4J2g96K0dFg",
+          "hash": "d3d92c934612660248660cbc77abb95f",
+          "key": "IinTwo",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "4JTe56F0_Fg",
+          "hash": "788f9e7dcdc7519209362f50a17a7074",
+          "key": "WrLGac",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "41Ce9TKC_Ke",
+          "hash": "44bd53c34d65768f2c9e679ffd7b3786",
+          "key": "WrWr",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "EJ1bq6tA_Fe",
+          "hash": "dc382191fb8da49e18879ce90e8dca2a",
+          "key": "LeoMot",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "N1gbcptROFx",
+          "hash": "f6fdfa12421a85c1252ba5efb8764157",
+          "key": "GacGac",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "N1ZbcpYA_Fl",
+          "hash": "d1e3da596256e4dbf9ba5d5d354d6d8d",
+          "key": "FSPWti",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "E1MWcTFAdYg",
+          "hash": "3afa67b04df678d6afe2243a5a2a61ad",
+          "key": "FSPFSP",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "Ek7W9atA_te",
+          "hash": "2364bd065d6d28d710594b721a655eec",
+          "key": "OaoDtp",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "Vk4WqaYA_tg",
+          "hash": "78108c159723068f15b26f33afd5c70f",
+          "key": "TftWwt",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "NJS-96YAuYl",
+          "hash": "abcd00fac9a95ea2742fe3edb2ca56e1",
+          "key": "TpsIts",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "VkUW9aY0_Ye",
+          "hash": "18fe294ed56a4e951bd5e540e88b92ba",
+          "key": "TcaTca",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "VyvZ9aFCOYe",
+          "hash": "3ecc91a320d94afec8ba2fbf3337f3d9",
+          "key": "JagTem",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "Ek_-caY0dKg",
+          "hash": "f3031d35dcd54f1a93d42d469a47893b",
+          "key": "Pipwbi",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "NJYbc6FRdFx",
+          "hash": "1a1aecbecb6ea9368b196e2bf4f347f5",
+          "key": "HhpWts",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "EJqZqptCdKe",
+          "hash": "0c5f8211b0645e2913007a13becabced",
+          "key": "MrsTmH",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "V1jZ5aKAute",
+          "hash": "9bedf2758b4503e11566a751dace6bda",
+          "key": "WtiWti",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "NkhW9TtCOtg",
+          "hash": "bc072ca373999ba61d26ff33ad54d4c6",
+          "key": "EvSNna",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "4JpW5aYC_Kl",
+          "hash": "29c28266ee3fc27bef9026cfc943dcd7",
+          "key": "EvSEvS",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "4k0Z56FAdYg",
+          "hash": "6ae411ca6d24faf04ef50ea02b20e4c5",
+          "key": "SpsSps",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "41kMqTtCOYl",
+          "hash": "d300f0cf1e49a1b830503a1b5ac62c79",
+          "key": "WpaHht",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "V1gM56Y0OYl",
+          "hash": "982789582af68457f1023204114bd86d",
+          "key": "AtsDsd",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "4k-z9pF0dKl",
+          "hash": "0dc23e2f12e40ae82965a59874ad062d",
+          "key": "GasGas",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "41zzcTYRdKg",
+          "hash": "d2908b859917b46ff6855d90a71e5195",
+          "key": "FsuAsc",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "N17zcTFRdFg",
+          "hash": "017ad5bc9a2c014d7a6f1d019e5a7e0c",
+          "key": "TmeStC",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "E1Vz56K0_Fe",
+          "hash": "3d30f89202a27beb0d48bc495da13b82",
+          "key": "NnaNna",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "EkSzqTKCuKx",
+          "hash": "6dbf6812187207f33cdd0efb4f5190c7",
+          "key": "LPIWit",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "NyLfcpFC_Ke",
+          "hash": "6313be278afd344f77ab0af400e9b4fc",
+          "key": "LPLP",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "4yvfqpYC_Kx",
+          "hash": "56b01f43d8276712c9309189ebb213e0",
+          "key": "IN2IN2",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "EkOf56FCOKx",
+          "hash": "2a38c9c30d69aaefdd86bf499b10895f",
+          "key": "OccMSD",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "4ktzqaKAuKg",
+          "hash": "3bde8ab7d10a3613e893f73474e5a77f",
+          "key": "OccIin",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "4k9z9TtC_Fe",
+          "hash": "4a4ee5f861ac10ac59909109a50ecbed",
+          "key": "MSDMSD",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "4ysG5aYRutx",
+          "hash": "54edf93aa2144e2952056537ebfae0a6",
+          "key": "ThiCws",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "NknzcTFAuFx",
+          "hash": "86e6e514944dbe78878777292bf40c3d",
+          "key": "WcnTcb",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "NyaGc6F0OFg",
+          "hash": "3598fb05bd354db337240a875db4b672",
+          "key": "FwmFtu",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "EJAGqTKR_Yx",
+          "hash": "a881fb3646f00fee2d0c1a66c86e24a2",
+          "key": "Swctst",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "EJymcpYAOYl",
+          "hash": "81d904b5609af0dd7adf92151911d683",
+          "key": "TmcWit",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "4klm5TKRdYx",
+          "hash": "5ce5917bcf3ee12a9bb57e0c29ff4d33",
+          "key": "VDaOah",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "EJbQcTKAOKx",
+          "hash": "198a30920479d1d8e2509b9b59f3d700",
+          "key": "VV",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "VkzXcaF0OFl",
+          "hash": "73505082c91960942fb8ce94bbf93ed5",
+          "key": "DapCac",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "4yQm9pFAdKg",
+          "hash": "bd9653a6ad5adb06a98bc99b763a8e01",
+          "key": "IipHoc",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "VkNXqaYR_Kg",
+          "hash": "8fc28d83a36b72c0bc06623c3de1c9de",
+          "key": "SdhSdh",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "EJSQ5TYA_Fx",
+          "hash": "dd739b2c46941e879c95c4a71aa8e328",
+          "key": "ItoIto",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "N1LmcpFAute",
+          "hash": "52ab1874d12656458755b4f68fc42762",
+          "key": "OahOah",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "NJPXcaYROFe",
+          "hash": "a70d071fa651824274e7042fde01ccc3",
+          "key": "EAaEAa",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "EkdXq6FCutl",
+          "hash": "76a1aaaab2707fa5960c1e2551c8c35e",
+          "key": "EE",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "VktQq6FRutx",
+          "hash": "74aec0e107b986f0d58839a8d4588b92",
+          "key": "AagAag",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        },
+        {
+          "nodeId": "41575TFROFx",
+          "hash": "19f670be7fa2c765f5f4b5b26c3e2489",
+          "key": "DTmEii",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "4yimqTFCOKx",
+          "hash": "eed9474fd944d045ff056d20004acaa3",
+          "key": "DD",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "NkhQqaYAdFl",
+          "hash": "901e7213badc045c00860ecfd88d1b86",
+          "key": "TmaBao",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "E1am96FAdYg",
+          "hash": "cd2018e4b0ebcb183eb124c8d130dc0a",
+          "key": "OTochi",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "VkRX9atR_Ke",
+          "hash": "0632b1f4b2c786b373db08baf7af74d2",
+          "key": "OO",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "4JJNcaKRdYe",
+          "hash": "015f55d922a3dc78f7264882845b6781",
+          "key": "TowTcw",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "EJeVcat0_tg",
+          "hash": "f0e83c44d16d8f36e7d1c182cb033e9b",
+          "key": "IhbRba",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "NJZN5aYRdFx",
+          "hash": "33e396b7d408ef9539984c317285def2",
+          "key": "WtaIsa",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "VyzE5pYAuYg",
+          "hash": "2879d4a8acb1e0c4f25a229d7edde27f",
+          "key": "TsvIbu",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "4JQNqpKC_Fg",
+          "hash": "ec595c11d34419eeb4cf5a5120b409b2",
+          "key": "FHaTge",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "EJ4V5pYROKg",
+          "hash": "520d0db389f362bf79ef56ca0af3dcab",
+          "key": "FF",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "E1rNq6FRdFl",
+          "hash": "a30e35b0385735caae104e6fd17081c4",
+          "key": "HaoHao",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "Nk8V5pY0uKx",
+          "hash": "a58b92035820573133cefe4eff60c53f",
+          "key": "IirHgt",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "VkwVqaF0uYg",
+          "hash": "1c9909c41856e12cb71af92fa3d0f36b",
+          "key": "AcbMws",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "NkdNcaYCdKl",
+          "hash": "78477e1c91d585e3ede7a6d835f9d720",
+          "key": "UtaUta",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "41tN5atCdtx",
+          "hash": "05b01337b88dd186fde20b12dfcb22f0",
+          "key": "TmhTgi",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "419E5TtAdYx",
+          "hash": "83402dc622d463e8d3ae5033163b9522",
+          "key": "IiwTot",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "VysNcptAdYg",
+          "hash": "8c82c0a02016571c139b2431b7199d3c",
+          "key": "TopCgH",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "4yhNqpKAuFg",
+          "hash": "dcb9ee8c91c87b3e67dbf5910642c877",
+          "key": "IihTie",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "E1TE56YAdte",
+          "hash": "c5e7734b1c60fb4ebf1d544dc4e1aae2",
+          "key": "TDaWsw",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "NJ0VqaFRute",
+          "hash": "068fdb0fcd7ed59f29bddf6b430b374b",
+          "key": "TdmTge",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "EykBcTFAuFg",
+          "hash": "6c71a1a471d73160f9ac16fab1dd888a",
+          "key": "PItWii",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "EkeScpYA_Ke",
+          "hash": "da0b472ac86851a3c0b623260d09546c",
+          "key": "PP",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "VJ-ScTF0OFl",
+          "hash": "053fadd2a62b006dbb0de6581f3db043",
+          "key": "ItvWii",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "V1zBcTYCuFe",
+          "hash": "d7bbe32d10387ca98c6c3c70b9080271",
+          "key": "VTvTja",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "4kXS5aKRuKe",
+          "hash": "198a30920479d1d8e2509b9b59f3d700",
+          "key": "VV",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "E1EHcpYCOtl",
+          "hash": "f8e47c394e2da5a652f2625cde9ef809",
+          "key": "TvaTva",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "NJBBq6KCOYl",
+          "hash": "587387d23a427179a6d4d357bf03bba3",
+          "key": "TeiNti",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "E1UrcTFRuYe",
+          "hash": "a1835ba98a8d977cc4421e0db0a57dfa",
+          "key": "AtcIta",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "NyPH96FC_Kx",
+          "hash": "b6bb5b565ff78af3d9f946274fffa2f9",
+          "key": "TmhTpo",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "4yOHqTY0dFg",
+          "hash": "df481a4f48288953e81d3cb2d29403bc",
+          "key": "TsaTja",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "EJKH9pY0_Yx",
+          "hash": "3b16ae1f7882d1f482c2ece63092030b",
+          "key": "ETaEii",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "4ycBqpYA_tg",
+          "hash": "76a1aaaab2707fa5960c1e2551c8c35e",
+          "key": "EE",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "VkorcptAuYx",
+          "hash": "556ecd5cac8f80c0e96feda0e9864e64",
+          "key": "TawFii",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "Ey2HqTtAOYx",
+          "hash": "45931718f7fd538bae0ca06ff56cd5a1",
+          "key": "OeaEii",
+          "rhetoricalElementId": "41575TFROFx"
+        },
+        {
+          "nodeId": "Vy6B9pFCOFl",
+          "hash": "c2a5046ce1b9407616f2c343afaf1b66",
+          "key": "CTiTWi",
+          "rhetoricalElementId": "Vy6B9pFCOFl"
+        },
+        {
+          "nodeId": "VJABcaYRuKx",
+          "hash": "6f8b794f3246b0c1e1780bb4d4d5dc53",
+          "key": "CC",
+          "rhetoricalElementId": "Vy6B9pFCOFl"
+        },
+        {
+          "nodeId": "4kkUqptROtl",
+          "hash": "466f4ab7d2556a07f2fc5acb9bf1cd93",
+          "key": "TiaOih",
+          "rhetoricalElementId": "Vy6B9pFCOFl"
+        },
+        {
+          "nodeId": "4yeUcpFR_tx",
+          "hash": "2c0a409e8922eea7c6fbd2fa35a779b1",
+          "key": "TnsTns",
+          "rhetoricalElementId": "Vy6B9pFCOFl"
+        },
+        {
+          "nodeId": "EJWIq6Y0dYg",
+          "hash": "4537d0f499c513d380b69550b19d6ec1",
+          "key": "IsbIst",
+          "rhetoricalElementId": "Vy6B9pFCOFl"
+        },
+        {
+          "nodeId": "E1GI9atA_Kl",
+          "hash": "35dda589bd4e2ecfd5af397c6a849a6d",
+          "key": "WcsAsw",
+          "rhetoricalElementId": "Vy6B9pFCOFl"
+        },
+        {
+          "nodeId": "NJQ8qaFCdKx",
+          "hash": "446d43cb68c6bd64a4c2fc280a82adb4",
+          "key": "TWiTWi",
+          "rhetoricalElementId": "Vy6B9pFCOFl"
+        }
+      ]
+    }
+  ],
+  "isPartOf": "scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1",
+  "author": [
+    {
+      "@type": "ContributorRole",
+      "author": {
+        "@type": "Person",
+        "name": "Robin Berjon",
+        "@id": "http://berjon.com/"
+      },
+      "roleAffiliation": [
+        {
+          "@type": "Organization",
+          "name": "science.ai",
+          "@id": ".scienceai:d04d52d0-c93b-11e5-9607-c1ccf73229a1",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Standard Analytics",
+            "location": {
+              "@type": "Place",
+              "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "USA",
+                "addressLocality": "NYC",
+                "addressRegion": "NY"
+              }
+            },
+            "@id": ".scienceai:d04d52d1-c93b-11e5-9607-c1ccf73229a1"
+          }
+        }
+      ]
+    }
+  ],
+  "license": {
+    "@type": "CreativeWork",
+    "name": "CC-BY-SA 4.0",
+    "url": "http://creativecommons.org/licenses/by-sa/4.0/",
+    "@id": "http://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "hasPart": [
+    {
+      "@id": "scienceai:d04eb262-c93b-11e5-9607-c1ccf73229a1",
+      "@type": "Image",
+      "dateCreated": "2016-02-01T23:30:44.457Z",
+      "creator": "bot:RdfaWorker",
+      "encoding": [
+        {
+          "@id": "scienceai:d04ed970-c93b-11e5-9607-c1ccf73229a1",
+          "@type": "ImageObject",
+          "creator": "bot:RdfaWorker",
+          "fileFormat": "image/png",
+          "contentSize": 97482,
+          "name": "image1.png",
+          "contentUrl": "/api/encodings/scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1/scienceai:d04eb262-c93b-11e5-9607-c1ccf73229a1/scienceai:d04ed970-c93b-11e5-9607-c1ccf73229a1",
+          "encodesCreativeWork": {
+            "@id": "scienceai:d04eb262-c93b-11e5-9607-c1ccf73229a1",
+            "isPartOf": {
+              "@id": "scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1"
+            }
+          },
+          "dateCreated": "2016-02-01T23:30:43.985Z",
+          "contentChecksum": [
+            {
+              "@type": "Checksum",
+              "checksumAlgorithm": "SHA-1",
+              "checksumValue": "fACtG194GnNonD9LY/Tirn64Ff0="
+            },
+            {
+              "@type": "Checksum",
+              "checksumAlgorithm": "MD5",
+              "checksumValue": "Ttfd89kduEr6J5c0Tyll8Q=="
+            },
+            {
+              "@type": "PerceptualHash",
+              "checksumAlgorithm": "pHash",
+              "checksumValue": [
+                0.599054,
+                -0.420479,
+                1.4696,
+                -0.331195,
+                7.79296,
+                1.06372,
+                7.58093,
+                0.674455,
+                11,
+                1.60597,
+                8.33901,
+                0.510106,
+                11,
+                1.84472,
+                0.599359,
+                -1.55311,
+                1.47029,
+                -2.58031,
+                7.88189,
+                -2.43857,
+                7.75121,
+                -2.87871,
+                11,
+                -5.51694,
+                8.51975,
+                -4.16878,
+                11,
+                -5.01378,
+                0.599941,
+                0.599334,
+                1.47159,
+                1.47023,
+                7.9222,
+                7.86286,
+                7.80863,
+                7.70292,
+                11,
+                11,
+                8.58145,
+                8.46808,
+                11,
+                11
+              ]
+            }
+          ],
+          "width": 1031,
+          "height": 408,
+          "colorType": "TrueColorAlpha",
+          "thumbnail": [
+            {
+              "@id": "scienceai:d05df4a0-c93b-11e5-9607-c1ccf73229a1",
+              "@type": "ImageObject",
+              "creator": "bot:RdfaWorker",
+              "fileFormat": "image/png",
+              "contentSize": 107605,
+              "name": "image1-940w.png",
+              "contentUrl": "/api/encodings/scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1/scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1/scienceai:d05df4a0-c93b-11e5-9607-c1ccf73229a1",
+              "encodesCreativeWork": {
+                "@id": "scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1",
+                "isPartOf": {
+                  "@id": "scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1"
+                }
+              },
+              "dateCreated": "2016-02-01T23:30:44.254Z",
+              "contentChecksum": [
+                {
+                  "@type": "Checksum",
+                  "checksumAlgorithm": "SHA-1",
+                  "checksumValue": "9jgLlKQJWt52wixShokk+ZA9+JM="
+                },
+                {
+                  "@type": "Checksum",
+                  "checksumAlgorithm": "MD5",
+                  "checksumValue": "MBzUL0olf+ZqhJX/dBGOqA=="
+                }
+              ],
+              "width": 940,
+              "height": 372,
+              "isBasedOnUrl": [
+                "scienceai:d04ed970-c93b-11e5-9607-c1ccf73229a1"
+              ]
+            },
+            {
+              "@id": "scienceai:d05e69d0-c93b-11e5-9607-c1ccf73229a1",
+              "@type": "ImageObject",
+              "creator": "bot:RdfaWorker",
+              "fileFormat": "image/png",
+              "contentSize": 59639,
+              "name": "image1-640w.png",
+              "contentUrl": "/api/encodings/scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1/scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1/scienceai:d05e69d0-c93b-11e5-9607-c1ccf73229a1",
+              "encodesCreativeWork": {
+                "@id": "scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1",
+                "isPartOf": {
+                  "@id": "scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1"
+                }
+              },
+              "dateCreated": "2016-02-01T23:30:44.224Z",
+              "contentChecksum": [
+                {
+                  "@type": "Checksum",
+                  "checksumAlgorithm": "SHA-1",
+                  "checksumValue": "JajnkWpDXZa9U+l+siaRuYC2ELI="
+                },
+                {
+                  "@type": "Checksum",
+                  "checksumAlgorithm": "MD5",
+                  "checksumValue": "DVolpbHGf/y9Eeq3MdHy6Q=="
+                }
+              ],
+              "width": 640,
+              "height": 253,
+              "isBasedOnUrl": [
+                "scienceai:d04ed970-c93b-11e5-9607-c1ccf73229a1"
+              ]
+            },
+            {
+              "@id": "scienceai:d05f0610-c93b-11e5-9607-c1ccf73229a1",
+              "@type": "ImageObject",
+              "creator": "bot:RdfaWorker",
+              "fileFormat": "image/png",
+              "contentSize": 21068,
+              "name": "image1-320w.png",
+              "contentUrl": "/api/encodings/scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1/scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1/scienceai:d05f0610-c93b-11e5-9607-c1ccf73229a1",
+              "encodesCreativeWork": {
+                "@id": "scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1",
+                "isPartOf": {
+                  "@id": "scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1"
+                }
+              },
+              "dateCreated": "2016-02-01T23:30:44.213Z",
+              "contentChecksum": [
+                {
+                  "@type": "Checksum",
+                  "checksumAlgorithm": "SHA-1",
+                  "checksumValue": "3E8d9qCbOD9krC+jcBFeX6S9iQk="
+                },
+                {
+                  "@type": "Checksum",
+                  "checksumAlgorithm": "MD5",
+                  "checksumValue": "5d/WjhSgyQfQL6iTSjJ9zQ=="
+                }
+              ],
+              "width": 320,
+              "height": 127,
+              "isBasedOnUrl": [
+                "scienceai:d04ed970-c93b-11e5-9607-c1ccf73229a1"
+              ]
+            }
+          ]
+        }
+      ],
+      "alternateName": "Figure 1",
+      "url": "#SA_REF_ANCHOR__Ref442094244",
+      "caption": "A graph representation of the data citation metadata"
+    },
+    {
+      "@id": "scienceai:d0994ff0-c93b-11e5-9607-c1ccf73229a1",
+      "@type": "Image",
+      "dateCreated": "2016-02-01T23:30:44.597Z",
+      "creator": "bot:RdfaWorker",
+      "encoding": [
+        {
+          "@id": "scienceai:d0997700-c93b-11e5-9607-c1ccf73229a1",
+          "@type": "ImageObject",
+          "creator": "bot:RdfaWorker",
+          "fileFormat": "image/png",
+          "contentSize": 38281,
+          "name": "image2.png",
+          "contentUrl": "/api/encodings/scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1/scienceai:d0994ff0-c93b-11e5-9607-c1ccf73229a1/scienceai:d0997700-c93b-11e5-9607-c1ccf73229a1",
+          "encodesCreativeWork": {
+            "@id": "scienceai:d0994ff0-c93b-11e5-9607-c1ccf73229a1",
+            "isPartOf": {
+              "@id": "scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1"
+            }
+          },
+          "dateCreated": "2016-02-01T23:30:44.473Z",
+          "contentChecksum": [
+            {
+              "@type": "Checksum",
+              "checksumAlgorithm": "SHA-1",
+              "checksumValue": "kCq0r675MvvCbb4ONXjI2tPVqiw="
+            },
+            {
+              "@type": "Checksum",
+              "checksumAlgorithm": "MD5",
+              "checksumValue": "BO2iPP5AOy0KYv4m3CVvtA=="
+            },
+            {
+              "@type": "PerceptualHash",
+              "checksumAlgorithm": "pHash",
+              "checksumValue": [
+                0.0873641,
+                -0.505911,
+                0.196926,
+                -1.00142,
+                4.44174,
+                0.258574,
+                4.44337,
+                0.286785,
+                8.88638,
+                0.559473,
+                4.54221,
+                -0.213877,
+                10.2278,
+                2.76655,
+                0.0999795,
+                -1.25936,
+                0.222571,
+                -2.51332,
+                4.72106,
+                -2.392,
+                5.36306,
+                -2.38618,
+                10.5518,
+                -4.77526,
+                6.02479,
+                -3.642,
+                10.5596,
+                -2.34508,
+                0.103498,
+                0.0966075,
+                0.229819,
+                0.215726,
+                4.32627,
+                4.8517,
+                4.62039,
+                5.23186,
+                9.10122,
+                10.2863,
+                4.85531,
+                5.47884,
+                9.82834,
+                10.8973
+              ]
+            }
+          ],
+          "width": 796,
+          "height": 89,
+          "colorType": "TrueColorAlpha",
+          "thumbnail": [
+            {
+              "@id": "scienceai:d0a006b0-c93b-11e5-9607-c1ccf73229a1",
+              "@type": "ImageObject",
+              "creator": "bot:RdfaWorker",
+              "fileFormat": "image/png",
+              "contentSize": 38326,
+              "name": "image2-640w.png",
+              "contentUrl": "/api/encodings/scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1/scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1/scienceai:d0a006b0-c93b-11e5-9607-c1ccf73229a1",
+              "encodesCreativeWork": {
+                "@id": "scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1",
+                "isPartOf": {
+                  "@id": "scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1"
+                }
+              },
+              "dateCreated": "2016-02-01T23:30:44.586Z",
+              "contentChecksum": [
+                {
+                  "@type": "Checksum",
+                  "checksumAlgorithm": "SHA-1",
+                  "checksumValue": "a5gvfTqqh6dvqkY47a/aBdBmJxo="
+                },
+                {
+                  "@type": "Checksum",
+                  "checksumAlgorithm": "MD5",
+                  "checksumValue": "xup6lxnVNHyDZ8k5nwiT2A=="
+                }
+              ],
+              "width": 640,
+              "height": 72,
+              "isBasedOnUrl": [
+                "scienceai:d0997700-c93b-11e5-9607-c1ccf73229a1"
+              ]
+            },
+            {
+              "@id": "scienceai:d0a07be0-c93b-11e5-9607-c1ccf73229a1",
+              "@type": "ImageObject",
+              "creator": "bot:RdfaWorker",
+              "fileFormat": "image/png",
+              "contentSize": 14505,
+              "name": "image2-320w.png",
+              "contentUrl": "/api/encodings/scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1/scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1/scienceai:d0a07be0-c93b-11e5-9607-c1ccf73229a1",
+              "encodesCreativeWork": {
+                "@id": "scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1",
+                "isPartOf": {
+                  "@id": "scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1"
+                }
+              },
+              "dateCreated": "2016-02-01T23:30:44.568Z",
+              "contentChecksum": [
+                {
+                  "@type": "Checksum",
+                  "checksumAlgorithm": "SHA-1",
+                  "checksumValue": "5BhFKb5LbtoxwFihylbW1IF5ank="
+                },
+                {
+                  "@type": "Checksum",
+                  "checksumAlgorithm": "MD5",
+                  "checksumValue": "I6o4yh3XHA2Iggg4Nl1ZVg=="
+                }
+              ],
+              "width": 320,
+              "height": 36,
+              "isBasedOnUrl": [
+                "scienceai:d0997700-c93b-11e5-9607-c1ccf73229a1"
+              ]
+            }
+          ]
+        }
+      ],
+      "alternateName": "Figure 2",
+      "url": "#SA_REF_ANCHOR__Ref442099645",
+      "caption": "Example rendition of a data citation"
+    },
+    {
+      "@id": "scienceai:d0ae85a0-c93b-11e5-9607-c1ccf73229a1",
+      "@type": "Image",
+      "dateCreated": "2016-02-01T23:30:45.461Z",
+      "creator": "bot:RdfaWorker",
+      "encoding": [
+        {
+          "@id": "scienceai:d0aed3c0-c93b-11e5-9607-c1ccf73229a1",
+          "@type": "ImageObject",
+          "creator": "bot:RdfaWorker",
+          "fileFormat": "image/png",
+          "contentSize": 293498,
+          "name": "image3.png",
+          "contentUrl": "/api/encodings/scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1/scienceai:d0ae85a0-c93b-11e5-9607-c1ccf73229a1/scienceai:d0aed3c0-c93b-11e5-9607-c1ccf73229a1",
+          "encodesCreativeWork": {
+            "@id": "scienceai:d0ae85a0-c93b-11e5-9607-c1ccf73229a1",
+            "isPartOf": {
+              "@id": "scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1"
+            }
+          },
+          "dateCreated": "2016-02-01T23:30:44.620Z",
+          "contentChecksum": [
+            {
+              "@type": "Checksum",
+              "checksumAlgorithm": "SHA-1",
+              "checksumValue": "EcDePn9bUhUOux+Dl/9B3bs+OQE="
+            },
+            {
+              "@type": "Checksum",
+              "checksumAlgorithm": "MD5",
+              "checksumValue": "uq3K+9JcoAQdNP3sKFmy+A=="
+            },
+            {
+              "@type": "PerceptualHash",
+              "checksumAlgorithm": "pHash",
+              "checksumValue": [
+                0.735576,
+                -0.0512435,
+                2.56154,
+                0.966396,
+                4.50854,
+                0.523032,
+                6.47146,
+                1.2216,
+                11,
+                3.06556,
+                8.32274,
+                2.46453,
+                11,
+                2.0964,
+                0.740789,
+                -0.52859,
+                2.65852,
+                -0.69022,
+                6.35781,
+                -0.791403,
+                6.00173,
+                -1.37226,
+                11,
+                -2.3855,
+                7.37263,
+                -1.68577,
+                11,
+                -2.17047,
+                0.7441,
+                0.73946,
+                2.67498,
+                2.63408,
+                6.66128,
+                5.49243,
+                6.28902,
+                6.17407,
+                11,
+                11,
+                7.67855,
+                7.60892,
+                11,
+                11
+              ]
+            }
+          ],
+          "width": 1046,
+          "height": 811,
+          "colorType": "TrueColorAlpha",
+          "thumbnail": [
+            {
+              "@id": "scienceai:d0c7b2f0-c93b-11e5-9607-c1ccf73229a1",
+              "@type": "ImageObject",
+              "creator": "bot:RdfaWorker",
+              "fileFormat": "image/png",
+              "contentSize": 385943,
+              "name": "image3-940w.png",
+              "contentUrl": "/api/encodings/scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1/scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1/scienceai:d0c7b2f0-c93b-11e5-9607-c1ccf73229a1",
+              "encodesCreativeWork": {
+                "@id": "scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1",
+                "isPartOf": {
+                  "@id": "scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1"
+                }
+              },
+              "dateCreated": "2016-02-01T23:30:45.092Z",
+              "contentChecksum": [
+                {
+                  "@type": "Checksum",
+                  "checksumAlgorithm": "SHA-1",
+                  "checksumValue": "DBfOi88MW4D+NAKUyvkjGDwbJm8="
+                },
+                {
+                  "@type": "Checksum",
+                  "checksumAlgorithm": "MD5",
+                  "checksumValue": "TRNyBsf1lOM9yz9xaoXg7Q=="
+                }
+              ],
+              "width": 940,
+              "height": 729,
+              "isBasedOnUrl": [
+                "scienceai:d0aed3c0-c93b-11e5-9607-c1ccf73229a1"
+              ]
+            },
+            {
+              "@id": "scienceai:d0c80110-c93b-11e5-9607-c1ccf73229a1",
+              "@type": "ImageObject",
+              "creator": "bot:RdfaWorker",
+              "fileFormat": "image/png",
+              "contentSize": 214096,
+              "name": "image3-640w.png",
+              "contentUrl": "/api/encodings/scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1/scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1/scienceai:d0c80110-c93b-11e5-9607-c1ccf73229a1",
+              "encodesCreativeWork": {
+                "@id": "scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1",
+                "isPartOf": {
+                  "@id": "scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1"
+                }
+              },
+              "dateCreated": "2016-02-01T23:30:45.010Z",
+              "contentChecksum": [
+                {
+                  "@type": "Checksum",
+                  "checksumAlgorithm": "SHA-1",
+                  "checksumValue": "NVoyy5eqrXdkvDMDbkVvwOYSwac="
+                },
+                {
+                  "@type": "Checksum",
+                  "checksumAlgorithm": "MD5",
+                  "checksumValue": "+GT3TiRa08Y5f+xjBwXSPQ=="
+                }
+              ],
+              "width": 640,
+              "height": 496,
+              "isBasedOnUrl": [
+                "scienceai:d0aed3c0-c93b-11e5-9607-c1ccf73229a1"
+              ]
+            },
+            {
+              "@id": "scienceai:d0c87640-c93b-11e5-9607-c1ccf73229a1",
+              "@type": "ImageObject",
+              "creator": "bot:RdfaWorker",
+              "fileFormat": "image/png",
+              "contentSize": 68901,
+              "name": "image3-320w.png",
+              "contentUrl": "/api/encodings/scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1/scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1/scienceai:d0c87640-c93b-11e5-9607-c1ccf73229a1",
+              "encodesCreativeWork": {
+                "@id": "scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1",
+                "isPartOf": {
+                  "@id": "scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1"
+                }
+              },
+              "dateCreated": "2016-02-01T23:30:44.945Z",
+              "contentChecksum": [
+                {
+                  "@type": "Checksum",
+                  "checksumAlgorithm": "SHA-1",
+                  "checksumValue": "HzWTyjDSMoVTSwWWQ5AdsYOEscE="
+                },
+                {
+                  "@type": "Checksum",
+                  "checksumAlgorithm": "MD5",
+                  "checksumValue": "qNsSEVEBJMUbjhVGrnyB+w=="
+                }
+              ],
+              "width": 320,
+              "height": 248,
+              "isBasedOnUrl": [
+                "scienceai:d0aed3c0-c93b-11e5-9607-c1ccf73229a1"
+              ]
+            }
+          ]
+        }
+      ],
+      "alternateName": "Figure 3",
+      "url": "#SA_REF_ANCHOR__Ref442102403",
+      "caption": "Rich snippet for \"aspirin\""
+    },
+    {
+      "@id": "scienceai:d1323490-c93b-11e5-9607-c1ccf73229a1",
+      "@type": "SoftwareSourceCode",
+      "dateCreated": "2016-02-01T23:30:45.475Z",
+      "creator": "bot:RdfaWorker",
+      "encoding": [
+        {
+          "@id": "scienceai:d13282b0-c93b-11e5-9607-c1ccf73229a1",
+          "@type": "MediaObject",
+          "creator": "bot:RdfaWorker",
+          "fileFormat": "text/html",
+          "contentSize": 1116,
+          "name": "scienceai:d13282b0-c93b-11e5-9607-c1ccf73229a1.html",
+          "contentUrl": "/api/encodings/scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1/scienceai:d1323490-c93b-11e5-9607-c1ccf73229a1/scienceai:d13282b0-c93b-11e5-9607-c1ccf73229a1",
+          "encodesCreativeWork": {
+            "@id": "scienceai:d1323490-c93b-11e5-9607-c1ccf73229a1",
+            "isPartOf": {
+              "@id": "scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1"
+            }
+          },
+          "dateCreated": "2016-02-01T23:30:45.475Z",
+          "contentChecksum": [
+            {
+              "@type": "Checksum",
+              "checksumAlgorithm": "SHA-1",
+              "checksumValue": "2RnzPvGYt55c+/9w0lqKMCJOHgA="
+            },
+            {
+              "@type": "Checksum",
+              "checksumAlgorithm": "MD5",
+              "checksumValue": "AYsKMtiO/kvsn0joWnAIvQ=="
+            }
+          ]
+        }
+      ],
+      "alternateName": "Code 1",
+      "url": "#SA_REF_ANCHOR__Ref442101442",
+      "caption": "JSON-LD representation of a data citation"
+    },
+    {
+      "@id": "scienceai:d1325ba0-c93b-11e5-9607-c1ccf73229a1",
+      "@type": "SoftwareSourceCode",
+      "dateCreated": "2016-02-01T23:30:45.479Z",
+      "creator": "bot:RdfaWorker",
+      "encoding": [
+        {
+          "@id": "scienceai:d132a9c0-c93b-11e5-9607-c1ccf73229a1",
+          "@type": "MediaObject",
+          "creator": "bot:RdfaWorker",
+          "fileFormat": "text/html",
+          "contentSize": 1992,
+          "name": "scienceai:d132a9c0-c93b-11e5-9607-c1ccf73229a1.html",
+          "contentUrl": "/api/encodings/scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1/scienceai:d1325ba0-c93b-11e5-9607-c1ccf73229a1/scienceai:d132a9c0-c93b-11e5-9607-c1ccf73229a1",
+          "encodesCreativeWork": {
+            "@id": "scienceai:d1325ba0-c93b-11e5-9607-c1ccf73229a1",
+            "isPartOf": {
+              "@id": "scienceai:ce3aed90-c93b-11e5-9607-c1ccf73229a1"
+            }
+          },
+          "dateCreated": "2016-02-01T23:30:45.479Z",
+          "contentChecksum": [
+            {
+              "@type": "Checksum",
+              "checksumAlgorithm": "SHA-1",
+              "checksumValue": "60jnFDpnBQJz43m96h6JwlQiC/w="
+            },
+            {
+              "@type": "Checksum",
+              "checksumAlgorithm": "MD5",
+              "checksumValue": "6wMjGakWkOxNLbqxIjS33Q=="
+            }
+          ]
+        }
+      ],
+      "alternateName": "Code 2",
+      "url": "#SA_REF_ANCHOR__Ref442093704SA_HYPERCOMM",
+      "caption": "A data citation fully captured in HTML"
+    }
+  ],
+  "citation": [
+    {
+      "@id": "http://doi.org/10.1007/bf02628694",
+      "url": "http://doi.org/10.1007/bf02628694",
+      "doi": "10.1007/bf02628694",
+      "alternateName": [
+        "Sie95"
+      ],
+      "author": [
+        {
+          "@type": "Person",
+          "givenName": "Joan",
+          "additionalName": "E.",
+          "familyName": "Sieber",
+          "name": "Joan E. Sieber"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Bruce",
+          "additionalName": "E.",
+          "familyName": "Trumbo",
+          "name": "Bruce E. Trumbo"
+        }
+      ],
+      "pageStart": "11",
+      "pageEnd": "20",
+      "isPartOf": {
+        "@type": "PublicationIssue",
+        "issueNumber": 1,
+        "isPartOf": {
+          "@type": "PublicationVolume",
+          "volumeNumber": 1,
+          "isPartOf": {
+            "@type": "Periodical",
+            "issn": [
+              "1353-3452",
+              "1471-5546"
+            ],
+            "name": "Science and Engineering Ethics"
+          }
+        }
+      },
+      "@type": "ScholarlyArticle",
+      "name": "(Not) giving credit where credit is due: Citation of data sets",
+      "datePublished": {
+        "@type": "xsd:gYear",
+        "@value": 1995
+      },
+      "lastModifiedBy": "bot:RdfaWorker"
+    },
+    {
+      "@id": "http://doi.org/10.2481/dsj.osom13-043",
+      "url": "http://doi.org/10.2481/dsj.osom13-043",
+      "doi": "10.2481/dsj.osom13-043",
+      "alternateName": [
+        "COD13"
+      ],
+      "author": {
+        "@type": "Organization",
+        "name": "CODATA-ICSTI Task Group on Data Citation Standards and Practice"
+      },
+      "pageStart": "CIDCR1",
+      "pageEnd": "CIDCR75",
+      "isPartOf": {
+        "@type": "PublicationIssue",
+        "issueNumber": 0,
+        "isPartOf": {
+          "@type": "PublicationVolume",
+          "volumeNumber": 12,
+          "isPartOf": {
+            "@type": "Periodical",
+            "issn": [
+              "1683-1470"
+            ],
+            "name": "Data Science Journal"
+          }
+        }
+      },
+      "@type": "ScholarlyArticle",
+      "name": "Out of Cite, Out of Mind: The Current State of Practice, Policy, and Technology for the Citation of Data",
+      "datePublished": {
+        "@type": "xsd:date",
+        "@value": "2013-09-08"
+      },
+      "lastModifiedBy": "bot:RdfaWorker"
+    },
+    {
+      "@id": "https://www.force11.org/group/joint-declaration-data-citation-principles-final",
+      "url": "https://www.force11.org/group/joint-declaration-data-citation-principles-final",
+      "alternateName": [
+        "Dat14"
+      ],
+      "author": {
+        "@type": "Organization",
+        "name": "Data Citation Synthesis Group"
+      },
+      "publisher": {
+        "name": "FORCE11"
+      },
+      "@type": "WebPage",
+      "name": "Joint Declaration of Data Citation Principles",
+      "datePublished": {
+        "@type": "xsd:gYear",
+        "@value": 2014
+      },
+      "potentialAction": {
+        "@type": "ReadAction",
+        "actionStatus": "CompletedActionStatus",
+        "endTime": {
+          "@type": "xsd:date",
+          "@value": "2016-01-28"
+        }
+      },
+      "lastModifiedBy": "bot:RdfaWorker"
+    },
+    {
+      "@id": "http://doi.org/10.7717/peerj-cs.1",
+      "url": "http://doi.org/10.7717/peerj-cs.1",
+      "doi": "10.7717/peerj-cs.1",
+      "alternateName": [
+        "Sta15"
+      ],
+      "author": [
+        {
+          "@type": "Person",
+          "givenName": "Joan",
+          "familyName": "Starr",
+          "name": "Joan Starr"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Eleni",
+          "familyName": "Castro",
+          "name": "Eleni Castro"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Mercè",
+          "familyName": "Crosas",
+          "name": "Mercè Crosas"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Michel",
+          "familyName": "Dumontier",
+          "name": "Michel Dumontier"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Robert",
+          "additionalName": "R.",
+          "familyName": "Downs",
+          "name": "Robert R. Downs"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Ruth",
+          "familyName": "Duerr",
+          "name": "Ruth Duerr"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Laurel",
+          "additionalName": "L.",
+          "familyName": "Haak",
+          "name": "Laurel L. Haak"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Melissa",
+          "familyName": "Haendel",
+          "name": "Melissa Haendel"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Ivan",
+          "familyName": "Herman",
+          "name": "Ivan Herman"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Simon",
+          "familyName": "Hodson",
+          "name": "Simon Hodson"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Joe",
+          "familyName": "Hourclé",
+          "name": "Joe Hourclé"
+        },
+        {
+          "@type": "Person",
+          "givenName": "John",
+          "additionalName": "Ernest",
+          "familyName": "Kratz",
+          "name": "John Ernest Kratz"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Jennifer",
+          "familyName": "Lin",
+          "name": "Jennifer Lin"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Lars",
+          "additionalName": "Holm",
+          "familyName": "Nielsen",
+          "name": "Lars Holm Nielsen"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Amy",
+          "familyName": "Nurnberger",
+          "name": "Amy Nurnberger"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Stefan",
+          "familyName": "Proell",
+          "name": "Stefan Proell"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Andreas",
+          "familyName": "Rauber",
+          "name": "Andreas Rauber"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Simone",
+          "familyName": "Sacchi",
+          "name": "Simone Sacchi"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Arthur",
+          "familyName": "Smith",
+          "name": "Arthur Smith"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Mike",
+          "familyName": "Taylor",
+          "name": "Mike Taylor"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Tim",
+          "familyName": "Clark​",
+          "name": "Tim Clark​"
+        }
+      ],
+      "pagination": "e1",
+      "isPartOf": {
+        "@type": "PublicationVolume",
+        "volumeNumber": 1,
+        "isPartOf": {
+          "@type": "Periodical",
+          "issn": [
+            "2376-5992"
+          ],
+          "name": "PeerJ CompSci"
+        }
+      },
+      "@type": "ScholarlyArticle",
+      "name": "Achieving human and machine accessibility of cited data in scholarly publications",
+      "datePublished": {
+        "@type": "xsd:date",
+        "@value": "2015-05-27"
+      },
+      "lastModifiedBy": "bot:RdfaWorker"
+    },
+    {
+      "@id": ".93B2589E-90E8-5F4B-ABE2-57C04920FEA7",
+      "alternateName": [
+        "Lap"
+      ],
+      "author": {
+        "@type": "Person",
+        "givenName": "Deborah",
+        "additionalName": "Aleyne",
+        "familyName": "Lapeyre",
+        "name": "Deborah Aleyne Lapeyre"
+      },
+      "@type": "Report",
+      "name": "Citing Data in Journal Articles using JATS",
+      "datePublished": {
+        "@type": "xsd:gYear",
+        "@value": 2015
+      },
+      "lastModifiedBy": "bot:RdfaWorker"
+    },
+    {
+      "@id": "http://doi.org/10.17226/13564",
+      "url": "http://doi.org/10.17226/13564",
+      "doi": "10.17226/13564",
+      "isbn": [
+        "http://id.crossref.org/isbn/978-0-309-26728-1"
+      ],
+      "alternateName": [
+        "NRC12"
+      ],
+      "author": {
+        "@type": "Organization",
+        "name": "NRC"
+      },
+      "@type": "CreativeWork",
+      "name": "For Attribution — Developing Data Attribution and Citation Practices and Standards",
+      "datePublished": {
+        "@type": "xsd:gYear",
+        "@value": 2012
+      },
+      "lastModifiedBy": "bot:RdfaWorker"
+    },
+    {
+      "@id": "http://semver.org/",
+      "url": "http://semver.org/",
+      "alternateName": [
+        "Pre14"
+      ],
+      "author": {
+        "@type": "Person",
+        "givenName": "Tom",
+        "familyName": "Preston-Werner",
+        "name": "Tom Preston-Werner"
+      },
+      "@type": "WebPage",
+      "name": "Semantic Versioning 2.0.0",
+      "datePublished": {
+        "@type": "xsd:gYear",
+        "@value": 2014
+      },
+      "potentialAction": {
+        "@type": "ReadAction",
+        "actionStatus": "CompletedActionStatus",
+        "endTime": {
+          "@type": "xsd:date",
+          "@value": "2016-02-01"
+        }
+      },
+      "lastModifiedBy": "bot:RdfaWorker"
+    },
+    {
+      "@id": "https://docs.npmjs.com/misc/semver",
+      "url": "https://docs.npmjs.com/misc/semver",
+      "alternateName": [
+        "npm15"
+      ],
+      "author": {
+        "@type": "Organization",
+        "name": "npm"
+      },
+      "@type": "WebPage",
+      "name": "semver — the semantic versioner for npm",
+      "datePublished": {
+        "@type": "xsd:date",
+        "@value": "2015-12-11"
+      },
+      "potentialAction": {
+        "@type": "ReadAction",
+        "actionStatus": "CompletedActionStatus",
+        "endTime": {
+          "@type": "xsd:date",
+          "@value": "2016-02-01"
+        }
+      },
+      "lastModifiedBy": "bot:RdfaWorker"
+    },
+    {
+      "@id": "http://scholarly.vernacular.io/",
+      "url": "http://scholarly.vernacular.io/",
+      "alternateName": [
+        "Ber15"
+      ],
+      "author": [
+        {
+          "@type": "Person",
+          "givenName": "Robin",
+          "familyName": "Berjon",
+          "name": "Robin Berjon"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Sébastien",
+          "familyName": "Ballesteros",
+          "name": "Sébastien Ballesteros"
+        }
+      ],
+      "@type": "WebPage",
+      "name": "Scholarly HTML",
+      "datePublished": {
+        "@type": "xsd:gYear",
+        "@value": 2015
+      },
+      "lastModifiedBy": "bot:RdfaWorker"
+    },
+    {
+      "@id": "http://doi.org/10.1515/9783110959352.xi",
+      "url": "http://schema.org/",
+      "doi": "10.1515/9783110959352.xi",
+      "isbn": [
+        "http://id.crossref.org/isbn/9783110959352"
+      ],
+      "alternateName": [
+        "sch15"
+      ],
+      "author": {
+        "@type": "Organization",
+        "name": "schema.org"
+      },
+      "isPartOf": {
+        "@type": "Periodical",
+        "name": "1994"
+      },
+      "publisher": {
+        "name": "schema.org"
+      },
+      "@type": "WebPage",
+      "name": "SCHEMA",
+      "datePublished": {
+        "@type": "xsd:gYear",
+        "@value": 2015
+      },
+      "potentialAction": {
+        "@type": "ReadAction",
+        "actionStatus": "CompletedActionStatus",
+        "endTime": {
+          "@type": "xsd:gYear",
+          "@value": 2016
+        }
+      },
+      "lastModifiedBy": "bot:RdfaWorker"
+    },
+    {
+      "@id": "http://docx.science.ai/",
+      "url": "http://docx.science.ai/",
+      "alternateName": [
+        "Bog15"
+      ],
+      "author": [
+        {
+          "@type": "Person",
+          "givenName": "Tiffany",
+          "familyName": "Bogich",
+          "name": "Tiffany Bogich"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Sébastien",
+          "familyName": "Ballesteros",
+          "name": "Sébastien Ballesteros"
+        }
+      ],
+      "@type": "WebPage",
+      "name": "DOCX Standard Scientific Style",
+      "datePublished": {
+        "@type": "xsd:gYear",
+        "@value": 2015
+      },
+      "lastModifiedBy": "bot:RdfaWorker"
+    },
+    {
+      "@id": "https://101innovations.wordpress.com/2015/06/23/first-1000-responses-most-popular-tools-per-research-activity/",
+      "url": "https://101innovations.wordpress.com/2015/06/23/first-1000-responses-most-popular-tools-per-research-activity/",
+      "alternateName": [
+        "10115"
+      ],
+      "author": {
+        "@type": "Organization",
+        "name": "101 Innovations"
+      },
+      "@type": "WebPage",
+      "name": "First 1000 responses – most popular tools per research activity",
+      "datePublished": {
+        "@type": "xsd:date",
+        "@value": "2015-06-23"
+      },
+      "lastModifiedBy": "bot:RdfaWorker"
+    },
+    {
+      "@id": "https://www.w3.org/TR/tabular-metadata/",
+      "url": "https://www.w3.org/TR/tabular-metadata/",
+      "alternateName": [
+        "Ten15"
+      ],
+      "author": [
+        {
+          "@type": "Person",
+          "givenName": "Jeni",
+          "familyName": "Tennison",
+          "name": "Jeni Tennison"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Gregg",
+          "familyName": "Kellogg",
+          "name": "Gregg Kellogg"
+        },
+        {
+          "@type": "Person",
+          "familyName": "W3C",
+          "name": "W3C"
+        }
+      ],
+      "@type": "WebPage",
+      "name": "Metadata Vocabulary for Tabular Data",
+      "datePublished": {
+        "@type": "xsd:date",
+        "@value": "2015-12-17"
+      },
+      "lastModifiedBy": "bot:RdfaWorker"
+    },
+    {
+      "@id": "Style Guide DB",
+      "url": "Style Guide DB",
+      "alternateName": [
+        "Sta16"
+      ],
+      "author": {
+        "@type": "Organization",
+        "name": "Standard Analytics"
+      },
+      "@type": "WebPage",
+      "name": "Style Guide DB",
+      "datePublished": {
+        "@type": "xsd:gYear",
+        "@value": 2015
+      },
+      "potentialAction": {
+        "@type": "ReadAction",
+        "actionStatus": "CompletedActionStatus",
+        "endTime": {
+          "@type": "xsd:gYear",
+          "@value": 2016
+        }
+      },
+      "lastModifiedBy": "bot:RdfaWorker"
+    }
+  ],
+  "name": "Web-First Data Citations",
+  "annotation": [
+    {
+      "@id": "scienceai:d36c6d20-c93b-11e5-9607-c1ccf73229a1",
+      "@type": "Annotation",
+      "motivation": "classifying",
+      "annotatedBy": "bot:RdfaWorker",
+      "annotatedAt": "2016-02-01T23:30:49.202Z",
+      "body": {
+        "@id": "sa:Abstract"
+      },
+      "target": {
+        "@type": "SpecificResource",
+        "source": "scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1",
+        "selector": {
+          "@type": "WebVerse",
+          "encodingId": "scienceai:ce41cb60-c93b-11e5-9607-c1ccf73229a1",
+          "creator": "bot:RdfaWorker",
+          "nodeId": "NkZYpYAOYl",
+          "hash": "999a93a376d0c9cf5a6f82701245c4c6",
+          "key": "AWiWti",
+          "startOffset": 0,
+          "endOffset": 422,
+          "score": "1",
+          "rhetoricalElementId": "NkZYpYAOYl"
+        }
+      }
+    },
+    {
+      "@id": "scienceai:d36c9430-c93b-11e5-9607-c1ccf73229a1",
+      "@type": "Annotation",
+      "motivation": "classifying",
+      "annotatedBy": "bot:RdfaWorker",
+      "annotatedAt": "2016-02-01T23:30:49.203Z",
+      "body": {
+        "@id": "sa:Introduction"
+      },
+      "target": {
+        "@type": "SpecificResource",
+        "source": "scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1",
+        "selector": {
+          "@type": "WebVerse",
+          "encodingId": "scienceai:ce41cb60-c93b-11e5-9607-c1ccf73229a1",
+          "creator": "bot:RdfaWorker",
+          "nodeId": "4yEFpYA_Yl",
+          "hash": "9888f99446dbdc26f16fef93381c0334",
+          "key": "ITnBot",
+          "startOffset": 0,
+          "endOffset": 1108,
+          "score": "1",
+          "rhetoricalElementId": "4yEFpYA_Yl"
+        }
+      }
+    },
+    {
+      "@id": "scienceai:d36cbb40-c93b-11e5-9607-c1ccf73229a1",
+      "@type": "Annotation",
+      "motivation": "classifying",
+      "annotatedBy": "bot:RdfaWorker",
+      "annotatedAt": "2016-02-01T23:30:49.204Z",
+      "body": {
+        "@id": "sa:MaterialsAndMethods"
+      },
+      "target": {
+        "@type": "SpecificResource",
+        "source": "scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1",
+        "selector": {
+          "@type": "WebVerse",
+          "encodingId": "scienceai:ce41cb60-c93b-11e5-9607-c1ccf73229a1",
+          "creator": "bot:RdfaWorker",
+          "nodeId": "Vktt6F0uKx",
+          "hash": "51d3aa1dc5a1ea0e223d78fe521e3c2c",
+          "key": "MTlEAa",
+          "startOffset": 0,
+          "endOffset": 15817,
+          "score": "1",
+          "rhetoricalElementId": "Vktt6F0uKx"
+        }
+      }
+    },
+    {
+      "@id": "scienceai:d36da5a0-c93b-11e5-9607-c1ccf73229a1",
+      "@type": "Annotation",
+      "motivation": "classifying",
+      "annotatedBy": "bot:RdfaWorker",
+      "annotatedAt": "2016-02-01T23:30:49.210Z",
+      "body": {
+        "@id": "sa:Discussion"
+      },
+      "target": {
+        "@type": "SpecificResource",
+        "source": "scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1",
+        "selector": {
+          "@type": "WebVerse",
+          "encodingId": "scienceai:ce41cb60-c93b-11e5-9607-c1ccf73229a1",
+          "creator": "bot:RdfaWorker",
+          "nodeId": "41575TFROFx",
+          "hash": "19f670be7fa2c765f5f4b5b26c3e2489",
+          "key": "DTmEii",
+          "startOffset": 0,
+          "endOffset": 12686,
+          "score": "1",
+          "rhetoricalElementId": "41575TFROFx"
+        }
+      }
+    },
+    {
+      "@id": "scienceai:d36e9000-c93b-11e5-9607-c1ccf73229a1",
+      "@type": "Annotation",
+      "motivation": "classifying",
+      "annotatedBy": "bot:RdfaWorker",
+      "annotatedAt": "2016-02-01T23:30:49.216Z",
+      "body": {
+        "@id": "sa:Conclusion"
+      },
+      "target": {
+        "@type": "SpecificResource",
+        "source": "scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1",
+        "selector": {
+          "@type": "WebVerse",
+          "encodingId": "scienceai:ce41cb60-c93b-11e5-9607-c1ccf73229a1",
+          "creator": "bot:RdfaWorker",
+          "nodeId": "Vy6B9pFCOFl",
+          "hash": "c2a5046ce1b9407616f2c343afaf1b66",
+          "key": "CTiTWi",
+          "startOffset": 0,
+          "endOffset": 1495,
+          "score": "1",
+          "rhetoricalElementId": "Vy6B9pFCOFl"
+        }
+      }
+    },
+    {
+      "@id": "scienceai:d36f2c40-c93b-11e5-9607-c1ccf73229a1",
+      "@type": "Annotation",
+      "motivation": "linking",
+      "annotatedBy": "bot:RdfaWorker",
+      "annotatedAt": "2016-02-01T23:30:49.220Z",
+      "body": {
+        "@id": "scienceai:d04eb262-c93b-11e5-9607-c1ccf73229a1"
+      },
+      "target": {
+        "@type": "SpecificResource",
+        "source": "scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1",
+        "selector": [
+          {
+            "@type": "WebVerse",
+            "encodingId": "scienceai:ce41cb60-c93b-11e5-9607-c1ccf73229a1",
+            "creator": "bot:RdfaWorker",
+            "nodeId": "VkwVqaF0uYg",
+            "hash": "1c9909c41856e12cb71af92fa3d0f36b",
+            "key": "AcbMws",
+            "startOffset": 266,
+            "endOffset": 274,
+            "rhetoricalElementId": "41575TFROFx"
+          }
+        ]
+      }
+    },
+    {
+      "@id": "scienceai:d36f2c41-c93b-11e5-9607-c1ccf73229a1",
+      "@type": "Annotation",
+      "motivation": "linking",
+      "annotatedBy": "bot:RdfaWorker",
+      "annotatedAt": "2016-02-01T23:30:49.220Z",
+      "body": {
+        "@id": "scienceai:d0ae85a0-c93b-11e5-9607-c1ccf73229a1"
+      },
+      "target": {
+        "@type": "SpecificResource",
+        "source": "scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1",
+        "selector": [
+          {
+            "@type": "WebVerse",
+            "encodingId": "scienceai:ce41cb60-c93b-11e5-9607-c1ccf73229a1",
+            "creator": "bot:RdfaWorker",
+            "nodeId": "41tN5atCdtx",
+            "hash": "05b01337b88dd186fde20b12dfcb22f0",
+            "key": "TmhTgi",
+            "startOffset": 443,
+            "endOffset": 451,
+            "rhetoricalElementId": "41575TFROFx"
+          }
+        ]
+      }
+    },
+    {
+      "@id": "scienceai:d36f2c42-c93b-11e5-9607-c1ccf73229a1",
+      "@type": "Annotation",
+      "motivation": "linking",
+      "annotatedBy": "bot:RdfaWorker",
+      "annotatedAt": "2016-02-01T23:30:49.220Z",
+      "body": {
+        "@id": "scienceai:d0994ff0-c93b-11e5-9607-c1ccf73229a1"
+      },
+      "target": {
+        "@type": "SpecificResource",
+        "source": "scienceai:ce3b14a0-c93b-11e5-9607-c1ccf73229a1",
+        "selector": [
+          {
+            "@type": "WebVerse",
+            "encodingId": "scienceai:ce41cb60-c93b-11e5-9607-c1ccf73229a1",
+            "creator": "bot:RdfaWorker",
+            "nodeId": "NJ0VqaFRute",
+            "hash": "068fdb0fcd7ed59f29bddf6b430b374b",
+            "key": "TdmTge",
+            "startOffset": 620,
+            "endOffset": 628,
+            "rhetoricalElementId": "41575TFROFx"
+          }
+        ]
+      }
+    }
+  ]
+}
