@@ -1,0 +1,17 @@
+
+[role="contentinfo"] table {
+  display: none;
+}
+[role="doc-credits"] ol {
+  list-style-type: none;
+}
+a[property="sa:roleAffiliation"] {
+  font-size: smaller;
+  vertical-align: super;
+}
+figure pre {
+  text-align: left;
+}
+[role="doc-acknowledgments"], [role="doc-acknowledgments"] + section {
+  display: none;
+}
